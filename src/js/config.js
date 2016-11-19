@@ -46,4 +46,8 @@ var Config=[{
 	pic:'//p3.music.126.net/pk-xo-6Nu5bwrA-ylVJFUA==/17885755649212510.jpg',
 	name:'夏夜-四季音色',
 	url:'//res.70read.com/xiaye.mp3'
+},{
+	pic:'//p3.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130',
+	name:'Lily Allen-Fuck You',
+	url:'//res.70read.com/fuckyou.mp3'
 }]
