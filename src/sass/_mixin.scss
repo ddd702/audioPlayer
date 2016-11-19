@@ -1,0 +1,38 @@
+$root_font_size:20;
+$scaleNum:2;
+$pageW:640;
+$pageH:960;
+@mixin txt-hide {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+@mixin clamp($num:2) {
+    //use:@include clamp(3);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: $num;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+@mixin clearfix {
+    &:before,
+    &:after {
+        content: " ";
+        /* 1 */
+        display: table;
+        /* 2 */
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+@mixin fontSize($initSize:$root_font_size) {
+    font-size: ($initSize/$root_font_size)*1rem;
+}
+@function toRem($pxSize){
+    @return ($pxSize/$scaleNum)/$root_font_size*1rem;
+}
