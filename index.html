@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <title>hello world!</title>
+    <link rel="stylesheet" href="dist/css/index.css">
+</head>
+
+<body>
+    <div class="main-canvas">
+        <div class="canvas-wrap" id="canvasBox">
+            <canvas id="j-canvas" width="300" height="150">不支持canvas</canvas>
+        </div>
+    </div>
+    <div class="container-fluid content">
+        <!-- Content here -->
+        <div class="row">
+            <div class="col-sm-12" id="app">
+                <audio id="j-audio" style="display: none;" crossorigin="anonymous" controls src="http://res.70read.com/41574312.mp3"></audio>
+                <section class="control-box row">
+                    <section class="col-sm-6">
+                        
+                        <img id="avatar" class="m-pic" src="#" alt="">
+                        <h3 class="m-title" id="title">未知</h3>
+                        <section class="col-sm-12 m-progress-wrap">
+                            <div class="m-progress" id="progress"></div>
+                        </section>
+                        <p class="time"><span id="nowTime"></span>/<span id="allTime"></span></p>
+                        <div class="slider-wrap">
+                            <input type="hidden" name="slider1" />
+                            <span class="volumn iconfont icon-yinliang"></span>
+                            <div class="dslider-wrap">
+                                <div class="dslider" id="slider1" data-cell="slider1">
+                                    <div class="cross"></div>
+                                    <div class="handler"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="player-btns">
+                            <span id="prev" class="iconfont icon-shangyishou"></span>
+                            <span id="play" class="iconfont icon-bofang"></span>
+                            <span id="next" class="iconfont icon-xiayishou"></span>
+                        </div>
+                    </section>
+                    <section class="col-sm-6 list-box">
+                        <ul id="list">
+                            
+                        </ul>
+                    </section>
+                </section>
+            </div>
+
+        </div>
+    </div>
+    <script src='/src/js/config.js'></script>
+    <script src='/dist/js/app.js'>
+    </script>
+</body>
+
+</html>

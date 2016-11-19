@@ -1,0 +1,49 @@
+var Config=[{
+	name:'Dido - This Land Is Mine',
+	pic:'http://musicdata.baidu.com/data2/pic/117822544/117822544.jpg',
+	url:'http://res.70read.com/41574312.mp3'
+},{
+	name:'五月天-干杯',
+	pic:'http://img.xiami.net/images/album/img10/3110/700711324010597_2.jpg',
+	url:'http://res.70read.com/ganbei.mp3'
+},{
+	name:'陈奕迅-陪你度过漫长岁月',
+	pic:"http://p3.music.126.net/qW4N08_Q8PSePV7iewwvHg==/3438172860758204.jpg?param=130y130",
+	url:'http://res.70read.com/peiniduguo.mp3'
+},{
+	name:'东山少爷-长堤1973',
+	pic:'http://p4.music.126.net/lBdgotve2M3RiiMBnXAYjw==/114349209301877.jpg?param=130y130',
+	url:'http://res.70read.com/changdi.mp3'
+},{
+	name:'Vox Angeli-New Soul',
+	pic:'http://p3.music.126.net/ITgUWlDAPxVTczeaYPY7tQ==/6663040465347914.jpg?param=130y130',
+	url:'http://res.70read.com/newsoul.mp3'
+},{
+	pic:'http://p3.music.126.net/ffDWh-Nxup64dKJxlvPOrw==/5956054487877602.jpg',
+	name:'Hailey Rowe-My Boyfriend Is Gay',
+	url:'http://res.70read.com/MyBoyfriendIsGay.mp3'
+},{
+	pic:'http://p4.music.126.net/UMhpY8l46jFatops_6cJUA==/6670737045790100.jpg?param=130y130',
+	name:'古巨基-爱得太迟',
+	url:'http://res.70read.com/aidetaichi.mp3'
+},{
+	pic:'http://p3.music.126.net/TKIlLLiEmIonBvl3fOEW_A==/94558000006014.jpg?param=130y130',
+	name:'郑中基-无赖',
+	url:'http://res.70read.com/wulai.mp3'
+},{
+	pic:'http://p3.music.126.net/gGJZ-zgThqL9aYRUhNY0KA==/41781441867562.jpg?param=130y130',
+	name:'萧敬腾-新不了情',
+	url:'http://res.70read.com/xinbuleqing.mp3'
+},{
+	pic:'http://p3.music.126.net/wQieYFAByMNU5WTXRQtCSg==/1396379780245779.jpg',
+	name:'邓紫棋-夜空中最亮的星',
+	url:'http://res.70read.com/zuiliang.mp3'
+},{
+	pic:'http://p4.music.126.net/UTrFxVAoq-Qh50dB_M74dw==/51677046522530.jpg',
+	name:'贝多芬-月光奏鸣曲',
+	url:'http://res.70read.com/beiduofenyueguang.mp3'
+},{
+	pic:'http://p3.music.126.net/pk-xo-6Nu5bwrA-ylVJFUA==/17885755649212510.jpg',
+	name:'夏夜-四季音色',
+	url:'http://res.70read.com/xiaye.mp3'
+}]
