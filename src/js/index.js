@@ -59,7 +59,7 @@ class app{
         var $nowTime=$('#nowTime');
         var $allTime=$('#allTime');
         this.$listItm=$('.list-itm');
-        $("#slider1").slideBar({max:100,min:0,crossC:"#f70",defalutNum:100,callBack:function(v){
+        $("#slider1").slideBar({max:100,min:0,crossC:"#f70",handlerC:'#fff',defalutNum:100,callBack:function(v){
             media.volumn=parseInt(v)/100;
         }});
         this.m.endCb=function(){

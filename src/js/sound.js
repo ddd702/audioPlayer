@@ -87,7 +87,7 @@ class Sound {
         var canvasCtx = this.canvasCtx;
         canvasCtx.clearRect(0, 0, WIDTH, HEIGHT);
         canvasCtx.font = "20px Georgia";
-        var colors=['rgba(215,255,5,.9)']
+        var colors=['rgba(215,255,5,.7)']
         function draw() {
             //canvasCtx.fillStyle = 'rgb(255, 255, 255)';
             canvasCtx.clearRect(0, 0, WIDTH, HEIGHT);
