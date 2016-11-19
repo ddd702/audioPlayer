@@ -50,4 +50,12 @@ var Config=[{
 	pic:'//p3.music.126.net/8qHI7sEEk3eM2DLitQXFDQ==/765260092953631.jpg?param=130y130',
 	name:'Lily Allen-Fuck You',
 	url:'//res.70read.com/fuckyou.mp3'
+},{
+	pic:'http://img.xiami.net/images/album/img10/3110/3059791379063569_2.jpg',
+	name:'五月天-你不是真正的快乐',
+	url:'//res.70read.com/notrealyhappy.mp3'
+},{
+	pic:'http://p4.music.126.net/zhpEEk4HpWIUkcVFcYPkVQ==/75866302334131.jpg?param=130y130',
+	name:'程响-新娘不是我',
+	url:'//res.70read.com/xinniangbushiwo.mp3'
 }]
