@@ -4,7 +4,6 @@ $maxWidth:1000px;
 html,
 body {
     width: 100%;
-    height: 100%;
     background-color: #000;
     background-size:cover;
     background-attachment:fixed;
@@ -12,9 +11,11 @@ body {
 }
 html{
     background-image:url(http://lorempixel.com/1300/1000/);
+    height: 100%;
 }
 body{
     background-color:rgba(0,0,0,.3);
+    min-height:100%;
 }
 input,
 button {
