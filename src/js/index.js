@@ -27,6 +27,7 @@ class app{
         this.faceTitle(0);
         this.listMusic();
         this.setEvents();
+        this.m.a.src=this.musicList[0].url;
         console.warn(this.musicList);
     }
     listMusic(){

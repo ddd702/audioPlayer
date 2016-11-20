@@ -1,7 +1,7 @@
 var Config=[{
 	pic:'//res.70read.com/images/0e25ccdc279d3f8abedffcf7baa6d372.jpg?imageView2/1/w/200/h/200',
 	name:'ハタ モトヒロ-Rain',
-	url:'//res.70read.com/rain.mp3'
+	url:'//res.70read.com/Rain.mp3'
 },{
 	name:'Dido - This Land Is Mine',
 	pic:'//musicdata.baidu.com/data2/pic/117822544/117822544.jpg',
