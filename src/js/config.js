@@ -3,6 +3,14 @@ var Config=[{
 	name:'ハタ モトヒロ-Rain',
 	url:'//res.70read.com/Rain.mp3'
 },{
+	pic:'http://p4.music.126.net/SVJNKYtlB_n9I7p0017Ndw==/6635552674995921.jpg?param=130y130',
+	name:'TV动画《寄生兽 生命的准则》配乐-NEXT TO YOU',
+	url:'//res.70read.com/nexttoyou.mp3'
+},{
+	pic:'http://p3.music.126.net/cUTk0ewrQtYGP2YpPZoUng==/3265549553028224.jpg?param=130y130',
+	name:'周杰伦-告白气球',
+	url:'//res.70read.com/gaobaiqiqiu.mp3'
+},{
 	name:'Dido - This Land Is Mine',
 	pic:'//musicdata.baidu.com/data2/pic/117822544/117822544.jpg',
 	url:'//res.70read.com/41574312.mp3'
@@ -58,8 +66,4 @@ var Config=[{
 	pic:'http://img.xiami.net/images/album/img10/3110/3059791379063569_2.jpg',
 	name:'五月天-你不是真正的快乐',
 	url:'//res.70read.com/notrealyhappy.mp3'
-},{
-	pic:'http://p4.music.126.net/zhpEEk4HpWIUkcVFcYPkVQ==/75866302334131.jpg?param=130y130',
-	name:'程响-新娘不是我',
-	url:'//res.70read.com/xinniangbushiwo.mp3'
 }]
